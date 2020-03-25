@@ -1,0 +1,9 @@
+.footer {
+    border-top: palevioletred;
+    background-color: #e6f5f4;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    margin-top: 60px;
+}
