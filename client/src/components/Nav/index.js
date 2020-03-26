@@ -10,10 +10,7 @@ function Nav() {
         ANGE YU
       </a>
       <div className="navbar">
-          <Link className="nav-link" to="/about">About</Link> 
-          <Link className="nav-link" to="/about">|</Link>
-          <Link className="nav-link" to="/portfolio">Portfolio</Link><Link className="nav-link" to="/contact">|</Link>
-          <Link className="nav-link" to="/contact">Contact</Link>
+          ABOUT PORTFOLIO CONTACT
       </div>
     </nav>
   );

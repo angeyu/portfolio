@@ -6,6 +6,8 @@ import Footer from './components/Footer';
 import About from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
+import Test from './pages/Test';
+
 
 function App() {
   return (
@@ -17,6 +19,7 @@ function App() {
           <Route path="/portfolio" component={Portfolio}/>
           <Route path="/contact" component={Contact}/>
         <Header/>
+        <Test />
         <Footer/>
       </div>
     </Router>

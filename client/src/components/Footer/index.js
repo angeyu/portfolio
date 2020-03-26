@@ -5,8 +5,9 @@ function Footer() {
     return (
     
         <div>
-            <footer className="footer">FOOTER</footer>
+            <footer className="footer">FOOTER - GITHUB LINKEDIN CONTACT INFO</footer>
         </div>
+        
       
     )
 }

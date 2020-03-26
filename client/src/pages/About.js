@@ -6,7 +6,7 @@ function About() {
             <div className="wrapper">
                 <div className="row">
                     <div className="col">
-                        I'm Ange. I have a BA in Human Computer Interaction from NYU. I'm dumbass.
+                        I'm Ange. I have a BA in Human Computer Interaction from NYU. I'm dumbass. [add rest of bio here]
                     </div>
                 </div>
             </div>
