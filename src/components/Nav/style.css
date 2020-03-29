@@ -1,16 +1,7 @@
-.container {
-    display: flexbox
+.navbar {
+    background-color: #cadefc;
 }
 
-.navbar-brand {
-    background-color: palegoldenrod;
-}
-
-nav {
-    background-color: paleturquoise;
-}
-
-h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: x-large;
+.links {
+    padding-top: 2%;
 }
